@@ -1,2 +1,2 @@
 # wiki
-This repo is used to provide a global advoid Wiki - No code will stay here!
+This repository is used for documenatation and the global advoid Wiki
