@@ -6,7 +6,9 @@ metasub: documentation
 noToc: false
 ---
 
-Just a Test...
-==============
+Information:
+============
 
-Documentation for the advoid project.
+Documentation for the advoid project will end up here.
+
+If you want to contribute take a look at <a href="https://github.com/advoid/documentation">the advoid documentation project at GitHub</a>. This is the repository where docs should be written. It is a submodule of this site
