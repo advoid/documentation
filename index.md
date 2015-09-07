@@ -1,3 +1,11 @@
+---
+layout: page
+title: Documentation 
+permalink: /documentation/
+metasub: documentation
+noToc: false
+---
+
 Just a Test...
 ==============
 
